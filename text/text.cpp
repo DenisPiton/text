@@ -23,7 +23,7 @@ string text_compression(string a) {
     }
     return buf;
 }
-
+ 
 int main()
 {
     string a = "asdasd     asdasd sadasd asd as d as dasdasd as d    asd";
